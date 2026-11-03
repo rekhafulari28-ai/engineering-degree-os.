@@ -1,9 +1,0 @@
-semester,course_code,course_name,credits,syllabus,status
-1,MA101,Engineering Mathematics I,4,Calculus and Linear Algebra,Completed
-1,PH101,Engineering Physics,4,Mechanics and Optics,Completed
-1,CS101,Programming for Problem Solving,4,Java and Logic Basics,Completed
-2,MA102,Engineering Mathematics II,4,Differential Equations,Completed
-2,EE101,Basic Electrical Engineering,4,Circuits and Transformers,Completed
-2,CS102,Object-Oriented Programming,4,Classes and Constructors,Completed
-3,CS201,Data Structures and Algorithms,4,Trees and Graphs,In Progress
-3,OS202,Operating Systems,4,Processes and Dual-Mode,In Progress
